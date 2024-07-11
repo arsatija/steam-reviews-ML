@@ -1,5 +1,9 @@
 # Steam Reviews Prediction
 
+## Project setup
+
+Install python with the following packages from the `/requirements.txt`
+
 ## Business Understanding
 The objective of the notebook is to be able to predict whether or not a game will be recommended based off the review. By analyzing reviews, the model identifies key words and phrases that lead to positive or negative recommendations. This can help game developers and marketers understand what aspects of a game are most appreciated by users when creating a sequel or a game in a specific genre.
 
